@@ -5,7 +5,6 @@
  Saleh Alkredes 
  Rakan Al Omairi
  Faisal Alfawaz
- jjjjjiuuunhn
  */
 
 public class HelloApplication {
